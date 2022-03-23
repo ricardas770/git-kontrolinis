@@ -1,0 +1,16 @@
+  388  git status
+  389  git add .
+  390  git commit -m "commitas po merge conflict"
+  391  git push orgin master
+  392  git push orgin pt-21
+  393  git push origin master
+  394  git status
+  395  git push origin pt-21
+  396  git switch master
+  397  git pull
+  398  git pull origin master
+  399  git branch -d pt-21
+  400  git push origin --delete pt-21
+  401  git status
+  402  git add .
+  403  git commit -m "paskutinis commitas"

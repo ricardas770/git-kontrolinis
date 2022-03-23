@@ -1,0 +1,13 @@
+* c9c4b78 paskutinis commitas
+*   6e8c2f0 Merge pull request #1 from ricardas770/pt-21
+|\  
+| *   26e2b3a commitas po merge conflict
+| |\  
+| |/  
+|/|   
+* | ea2787e Update studentas.txt
+| * eec90fc sucommitinu pakeitimus is brancho (4)
+|/  
+* 16808ff commitas (3)
+* 410ad6d sucommitinu pakeitimus (2)
+* 2802328 sucommitinu pakeitimus (1)
